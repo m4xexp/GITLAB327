@@ -27,5 +27,6 @@ void main()
     scanf("%d", &YourLotteryNo); 
   }
   printf("GOODBYE");
+  printf("Hope you'll good luck!!");
   scanf("%d", &i);
 }
